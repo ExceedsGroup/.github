@@ -1,32 +1,45 @@
-# Disboard Software
+# Exceeds Group
 
-Operational layer of Exceeds Group.
-
----
-
-## Role
-
-Design, deploy and operate vertical SaaS systems.
+Structured digital capital.
 
 ---
 
-## Active Verticals
+## Philosophy
 
-Barbershop Operations
-Pet Care Operations
-
----
-
-## Operating Model
-
-Shared infrastructure.
-Independent market positioning.
-Standardized governance.
+Discipline over noise.
+Systems over projects.
+Compounding over speed.
 
 ---
 
-## Objective
+## Structure
 
-Build once.
-Refine continuously.
-Replicate deliberately.
+Exceeds Group
+ └── Disboard Software
+
+Execution is decentralized.
+Standards are centralized.
+
+---
+
+## Governance
+
+Capital is allocated intentionally.
+Expansion follows validation.
+Assets must generate recurring flow.
+
+---
+
+## Doctrine
+
+One niche at a time.
+One standard across all entities.
+Long horizon decisions.
+
+---
+
+## Status
+
+Phase: Construction
+Focus: Foundation integrity
+Priority: Structural repeatability
