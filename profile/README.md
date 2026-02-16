@@ -15,7 +15,7 @@ Compounding over speed.
 ## Structure
 
 Exceeds Group
- └── Disboard Software
+ * Disboard Software
 
 Execution is decentralized.
 Standards are centralized.
